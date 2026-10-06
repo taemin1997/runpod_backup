@@ -19,6 +19,9 @@ dependencies = [
     "dotenv>=0.9.9",
     "python-dotenv>=1.2.4",
     "hf-transfer>=0.1.9",
+    "matplotlib>=3.11.2",
+    "nltk>=3.10.3",
+    "rouge-score>=0.1.2",
 ]
 
 [project.scripts]
